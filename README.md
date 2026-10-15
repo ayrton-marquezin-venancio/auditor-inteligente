@@ -129,14 +129,9 @@ Os filtros de **período, produto e pagamento** aceitam **múltiplas seleções*
 ├── README.md
 ├── auditor_inteligente.ipynb            # Notebook de tratamento e análise
 ├── vendas_projeto_auditor.csv           # Base demonstrativa original
-├── auditor_planilha_tratada.xlsx        # Resultado final do tratamento
+├── auditor_planilha_tratada.csv         # Resultado final do tratamento
 ├── dashboard_auditor_inteligente_v3.html # Arquivo HTML do dashboard
 ├── index.html                           # Cópia do dashboard para GitHub Pages
-├── requirements.txt
-├── .gitignore
-├── .nojekyll                         # Publicação estática sem processamento Jekyll
-└── assets/
-    └── dashboard-preview.png
 ```
 
 ## Como reproduzir a análise
@@ -157,10 +152,10 @@ jupyter notebook
 ```
 
 4. Abra `auditor_inteligente.ipynb` e execute as células **de cima para baixo**, com `vendas_projeto_auditor.csv` na mesma pasta. O notebook lê esse nome de arquivo explicitamente.
-5. Consulte `auditor_planilha_tratada.xlsx` como o resultado tratado disponibilizado neste repositório. Para reproduzir a exportação, ao fim do notebook execute:
+5. Consulte `auditor_planilha_tratada.csv` como o resultado tratado disponibilizado neste repositório. Para reproduzir a exportação, ao fim do notebook execute:
 
 ```python
-df_limpo.to_excel("auditor_planilha_tratada.xlsx", index=False)
+df_limpo.to_excel("auditor_planilha_tratada.csv", index=False)
 ```
 
 > **Atenção:** o notebook atual foi estruturado para essa base específica. Novos CSVs devem ser analisados quanto a nomes de colunas, tipos e regras de negócio antes de reutilizar a rotina.
