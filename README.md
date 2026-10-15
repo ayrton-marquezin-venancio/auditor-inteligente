@@ -5,7 +5,7 @@
 **Tecnologias:** `Python` · `Pandas` · `Jupyter Notebook` · `Excel/XLSX` · `HTML` · `CSS` · `JavaScript` · `GitHub Pages`  
 **Abordagem:** Data Cleaning · Data Quality · Análise Exploratória · KPIs Comerciais · Visualização de Dados
 
-> **📊 [ACESSAR O DASHBOARD INTERATIVO — GITHUB PAGES](https://ayrton-marquezin-venancio.github.io/auditor-inteligente-planilhas/)**  
+> **📊 [ACESSAR O DASHBOARD INTERATIVO — GITHUB PAGES](https://ayrton-marquezin-venancio.github.io/auditor-inteligente/)**  
 
 ![Prévia do dashboard Auditor Inteligente — Visão Geral](assets/dashboard-preview.png)
 
