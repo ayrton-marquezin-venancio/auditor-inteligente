@@ -178,7 +178,7 @@ A versão do dashboard destinada à publicação já está em `index.html`, acom
 5. **Teste o acesso em uma janela anônima** e substitua o link destacado no início deste README pelo endereço real, semelhante a:
 
 ```text
-https://SEU-USUARIO.github.io/auditor-inteligente-planilhas/
+https://ayrton-marquezin-venancio.github.io/auditor-inteligente-planilhas/
 ```
 
 A publicação é uma hospedagem **estática**: não executa Python e não necessita de servidor próprio. **O conteúdo incorporado ao HTML ficará público**, portanto não publique informações confidenciais de clientes ou empresas.
