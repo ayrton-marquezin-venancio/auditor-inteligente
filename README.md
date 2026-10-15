@@ -5,7 +5,7 @@
 **Tecnologias:** `Python` · `Pandas` · `Jupyter Notebook` · `Excel/XLSX` · `HTML` · `CSS` · `JavaScript` · `GitHub Pages`  
 **Abordagem:** Data Cleaning · Data Quality · Análise Exploratória · KPIs Comerciais · Visualização de Dados
 
-> **📊 [ACESSAR O DASHBOARD INTERATIVO — GITHUB PAGES](https://SEU-USUARIO.github.io/auditor-inteligente-planilhas/)**  
+> **📊 [ACESSAR O DASHBOARD INTERATIVO — GITHUB PAGES](https://ayrton-marquezin-venancio.github.io/auditor-inteligente-planilhas/)**  
 > **Configuração necessária:** substitua `SEU-USUARIO` pelo seu nome de usuário no GitHub **após publicar** o site. Esse endereço é um modelo, não um link publicado ou validado. Se o repositório receber outro nome, atualize também `auditor-inteligente-planilhas`.
 
 ![Prévia do dashboard Auditor Inteligente — Visão Geral](assets/dashboard-preview.png)
