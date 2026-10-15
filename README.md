@@ -7,8 +7,6 @@
 
 > **📊 [ACESSAR O DASHBOARD INTERATIVO — GITHUB PAGES](https://ayrton-marquezin-venancio.github.io/auditor-inteligente/)**  
 
-![Prévia do dashboard Auditor Inteligente — Visão Geral](assets/dashboard-preview.png)
-
 ## Visão geral
 
 O projeto simula um cenário de análise comercial: a base de vendas recebida apresenta **registros duplicados, preços ausentes, quantidades negativas e quantidades não informadas**. O objetivo foi **identificar, tratar ou sinalizar esses problemas sem ocultar movimentações relevantes**, gerar indicadores confiáveis e construir um painel executivo navegável.
